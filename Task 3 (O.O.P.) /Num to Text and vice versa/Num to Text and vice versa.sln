@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Num to Text and vice versa", "Num to Text and vice versa\Num to Text and vice versa.csproj", "{CE7F757A-564A-4454-899E-A098A2902FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7F757A-564A-4454-899E-A098A2902FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7F757A-564A-4454-899E-A098A2902FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7F757A-564A-4454-899E-A098A2902FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7F757A-564A-4454-899E-A098A2902FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD146C0-FBC3-47E5-86AA-700E66D14DB7}
+	EndGlobalSection
+EndGlobal
