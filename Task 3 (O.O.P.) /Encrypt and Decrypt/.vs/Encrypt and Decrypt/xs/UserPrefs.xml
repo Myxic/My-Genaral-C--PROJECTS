@@ -1,24 +1,26 @@
 ﻿<Properties StartupConfiguration="{B50C71E2-571A-4135-AD29-641F158A4600}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Encrypt and Decrypt/Encode and decode.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Encrypt and Decrypt/Program.cs">
     <Files>
-      <File FileName="Encrypt and Decrypt/Program.cs" Line="24" Column="13" />
-      <File FileName="Encrypt and Decrypt/Encode and decode.cs" Line="11" Column="9" />
+      <File FileName="Encrypt and Decrypt/Program.cs" Line="28" Column="39" />
+      <File FileName="Encrypt and Decrypt/Encode and decode.cs" Line="47" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Encrypt and Decrypt" expanded="True">
-            <Node name="Encrypt and Decrypt" expanded="True" />
+            <Node name="Encrypt and Decrypt" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Encrypt_220and_220Decrypt PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Encrypt_220and_220Decrypt PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

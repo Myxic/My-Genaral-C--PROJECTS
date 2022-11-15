@@ -4,9 +4,31 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Choose an Opeartion you want to perform");
+        Console.WriteLine("Enter num_to_text or type 1");
+        Console.WriteLine("Enter text_to_num or type 2");
+        var input = Console.ReadLine();
 
-        Console.WriteLine(num_to_text.Numtotext(50));
+        if (!string.IsNullOrWhiteSpace(input)){
+            if (input.ToUpper() == "NUM_TO_TEXT" || input == "1")
+            {
+                Console.Write("Enter the number to convert: ");
+                var number = Console.ReadLine();
+                int number2 = Convert.ToInt32(number);
+
+                Console.WriteLine(num_to_text.Numtotext(number2));
+            }else if(input.ToUpper() == "TEXT_TO_NUM" || input == "2")
+            {
+
+            }
+
+        }
+        else
+        {
+            Console.WriteLine("Nice Try: Enter a valid Opeartion");
+        }
+
+        ;
     }
 }
 

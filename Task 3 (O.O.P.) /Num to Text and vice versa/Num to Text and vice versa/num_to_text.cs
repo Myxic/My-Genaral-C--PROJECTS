@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 using Microsoft.VisualBasic;
-
+using System.Xml.Schema;
 
 namespace Num_to_Text_and_vice_versa
 {
@@ -49,11 +49,23 @@ namespace Num_to_Text_and_vice_versa
             if (num < 20)
             {
                 return numList1[num];
-            }
-            if (num < 100)
+            }else if (num < 100)
             {
-                if (num % 100 == 0) {
-                    return numList1[num / 100] + "hundred";
+                if (num % 10 == 0)
+                {
+                    return numList1[num];
+                }
+                else
+                {
+                    return numList1[num / 10 * 10] + '-' + numList1[num % 10];
+                }
+
+            }
+            else if (num < thousand1)
+            {
+                
+                if (num % 10 == 0) {
+                    return numList1[num / 100] + " hundred";
                 }
                 else
                 {
@@ -61,7 +73,7 @@ namespace Num_to_Text_and_vice_versa
                 }
             }
 
-            if (num < thousand1)
+            else if (num < million1)
             {
                 if (num % thousand1 == 0)
                 {
@@ -73,7 +85,7 @@ namespace Num_to_Text_and_vice_versa
                 }
             }
 
-            if (num < million1)
+            else if (num < billion1)
             {
                 if ((num % million1) == 0)
                 {
@@ -85,7 +97,7 @@ namespace Num_to_Text_and_vice_versa
                 }
             }
 
-            if (num < billion1) {
+            else if (num < trillion1) {
                 if ((num % billion1) == 0)
                     return Numtotext(num / billion1) + " billion";
                 else {
@@ -93,14 +105,16 @@ namespace Num_to_Text_and_vice_versa
                 }
             }
 
-            if (num % trillion1 == 0) {
+            else if (num % trillion1 == 0)
+            {
                 return Numtotext(num / trillion1) + " trillion";
             }
-            else {
+            else
+            {
                 return Numtotext(num / trillion1) + " trillion, " + Numtotext(num % trillion1);
             }
 
         }
-        
+
     }
 }
