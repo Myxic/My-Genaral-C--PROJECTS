@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/bin/Debug/net6.0/Guessing Game
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/bin/Debug/net6.0/Guessing Game.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/bin/Debug/net6.0/Guessing Game.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/bin/Debug/net6.0/Guessing Game.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/bin/Debug/net6.0/Guessing Game.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/Guessing Game.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/Guessing Game.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/Guessing Game.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/Guessing Game.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/Guessing Game.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/refint/Guessing Game.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/Guessing Game.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/Guessing Game.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Guessing Game/Guessing Game/obj/Debug/net6.0/ref/Guessing Game.dll
