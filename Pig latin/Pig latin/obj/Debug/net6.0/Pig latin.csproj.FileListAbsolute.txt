@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/bin/Debug/net6.0/Pig latin
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/bin/Debug/net6.0/Pig latin.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/bin/Debug/net6.0/Pig latin.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/bin/Debug/net6.0/Pig latin.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/bin/Debug/net6.0/Pig latin.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/Pig latin.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/Pig latin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/Pig latin.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/Pig latin.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/Pig latin.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/Pig latin.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/refint/Pig latin.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/Pig latin.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/Pig latin.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Pig latin/Pig latin/obj/Debug/net6.0/ref/Pig latin.dll
