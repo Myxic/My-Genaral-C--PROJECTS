@@ -5,8 +5,8 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Choose an Opeartion you want to perform");
-        Console.WriteLine("Enter num_to_text or type 1");
-        Console.WriteLine("Enter text_to_num or type 2");
+        Console.WriteLine("Enter num_to_text or type 1, OR Enter text_to_num or type 2");
+      
         var input = Console.ReadLine();
 
         if (!string.IsNullOrWhiteSpace(input)){
@@ -17,9 +17,14 @@ class Program
                 int number2 = Convert.ToInt32(number);
 
                 Console.WriteLine(num_to_text.Numtotext(number2));
+
             }else if(input.ToUpper() == "TEXT_TO_NUM" || input == "2")
             {
+                Console.Write("Enter the Text to convert: ");
+                var text = Console.ReadLine();
+                
 
+                
             }
 
         }
