@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
-//using Microsoft.VisualBasic;
+using Microsoft.VisualBasic;
+
 
 namespace Num_to_Text_and_vice_versa
 {
@@ -18,11 +19,11 @@ namespace Num_to_Text_and_vice_versa
             numList = new Dictionary<int, string>(){
             {0, "zero"}, {1, "one"}, {2, "two"}, {3, "three"}, {4, "four"},
             { 5, "five"},{6, "six" },{ 7, "seven"},{8, "eight"}, {9, "nine"},
-            {10, "ten" },{11, "eleven"}, {12, "twelve"}, {13, "thirteen"},
+            {10, "ten"},{11, "eleven"}, {12, "twelve"}, {13, "thirteen"},
             {14, "fourteen"}, { 15, "fifteen"}, {16, "sixteen"},
             {17, "seventeen"}, {18, "eighteen"},{ 19, "nineteen"}, {20, "twenty"},
-            { 30, "thirty"}, {40, "forty"}, {50, "fifty"}, {60, "sixty" },
-            { 70, "seventy"}, {80, "eighty"}, {90, "ninety" }
+            { 30, "thirty"}, {40, "forty"}, {50, "fifty"}, {60, "sixty"},
+            { 70, "seventy"}, {80, "eighty"}, {90, "ninety"}
             };
 
             thousand = 1000;
@@ -41,13 +42,14 @@ namespace Num_to_Text_and_vice_versa
             int million1 = myClass.million;
             int billion1 = myClass.billion;
             int trillion1 = myClass.trillion;
+            
 
-
+            
 
             if (num < 20)
-            {             
+            {
                 return numList1[num];
-                    }
+            }
             if (num < 100)
             {
                 if (num % 100 == 0) {
@@ -77,9 +79,10 @@ namespace Num_to_Text_and_vice_versa
                 {
                     return Numtotext(num / million1) + " million";
                 }
-            }
-            else {
-                return Numtotext(num / million1) + " million, " + Numtotext(num % million1);
+                else
+                {
+                    return Numtotext(num / million1) + " million, " + Numtotext(num % million1);
+                }
             }
 
             if (num < billion1) {

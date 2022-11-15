@@ -1,14 +1,27 @@
 ﻿<Properties StartupConfiguration="{CE7F757A-564A-4454-899E-A098A2902FCC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Encrypt and Decrypt/Encrypt and Decrypt/Program.cs">
-    <Files>
-      <File FileName="../Encrypt and Decrypt/Encrypt and Decrypt/Program.cs" Line="10" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Num_220to_220Text_220and_220vice_220versa PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Num to Text and vice versa/num_to_text.cs">
+    <Files>
+      <File FileName="Num to Text and vice versa/num_to_text.cs" Line="67" Column="18" />
+      <File FileName="Num to Text and vice versa/Program.cs" Line="9" Column="51" />
+      <File FileName="Num to Text and vice versa/text to num.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Num to Text and vice versa" expanded="True">
+            <Node name="Num to Text and vice versa" expanded="True">
+              <Node name="num_to_text.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Num_220to_220Text_220and_220vice_220versa PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

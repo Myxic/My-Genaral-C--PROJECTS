@@ -3,8 +3,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("what do you wanty to do (Encrypt and Decrypt: ");
+        Console.WriteLine("what do you wanty to do (Encrypt or Decrypt): ");
         var input = Console.ReadLine();
+        
+
 
         if (input?.ToUpper() == "ENCRYPT")
         {
