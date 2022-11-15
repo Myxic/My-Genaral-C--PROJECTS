@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/bin/Debug/net6.0/Next four leap year
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/bin/Debug/net6.0/Next four leap year.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/bin/Debug/net6.0/Next four leap year.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/bin/Debug/net6.0/Next four leap year.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/bin/Debug/net6.0/Next four leap year.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/Next four leap year.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/Next four leap year.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/Next four leap year.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/Next four leap year.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/Next four leap year.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/Next four leap year.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/refint/Next four leap year.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/Next four leap year.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/Next four leap year.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Next four leap year/Next four leap year/obj/Debug/net6.0/ref/Next four leap year.dll
