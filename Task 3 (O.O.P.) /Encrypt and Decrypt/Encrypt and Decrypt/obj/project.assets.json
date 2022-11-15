@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Encrypt and Decrypt/Encrypt and Decrypt/Encrypt and Decrypt.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/Encrypt and Decrypt.csproj",
       "projectName": "Encrypt and Decrypt",
-      "projectPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Encrypt and Decrypt/Encrypt and Decrypt/Encrypt and Decrypt.csproj",
+      "projectPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/Encrypt and Decrypt.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Encrypt and Decrypt/Encrypt and Decrypt/obj/",
+      "outputPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"

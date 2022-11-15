@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/bin/Debug/net6.0/Encrypt and Decrypt
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/bin/Debug/net6.0/Encrypt and Decrypt.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/bin/Debug/net6.0/Encrypt and Decrypt.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/bin/Debug/net6.0/Encrypt and Decrypt.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/bin/Debug/net6.0/Encrypt and Decrypt.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/Encrypt and Decrypt.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/Encrypt and Decrypt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/Encrypt and Decrypt.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/Encrypt and Decrypt.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/Encrypt and Decrypt.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/Encrypt and Decrypt.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/refint/Encrypt and Decrypt.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/Encrypt and Decrypt.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/Encrypt and Decrypt.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Encrypt and Decrypt/Encrypt and Decrypt/obj/Debug/net6.0/ref/Encrypt and Decrypt.dll

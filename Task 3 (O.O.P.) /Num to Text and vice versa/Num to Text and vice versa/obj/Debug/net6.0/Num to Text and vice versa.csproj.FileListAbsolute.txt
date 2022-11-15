@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/Num to Text and vice versa.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/Num to Text and vice versa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/Num to Text and vice versa.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/Num to Text and vice versa.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/Num to Text and vice versa.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/bin/Debug/net6.0/Num to Text and vice versa
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/bin/Debug/net6.0/Num to Text and vice versa.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/bin/Debug/net6.0/Num to Text and vice versa.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/bin/Debug/net6.0/Num to Text and vice versa.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/bin/Debug/net6.0/Num to Text and vice versa.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/Num to Text and vice versa.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/refint/Num to Text and vice versa.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/Num to Text and vice versa.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/Num to Text and vice versa.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/Task 3 (O.O.P.) /Num to Text and vice versa/Num to Text and vice versa/obj/Debug/net6.0/ref/Num to Text and vice versa.dll

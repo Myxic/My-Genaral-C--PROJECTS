@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Num to Text and vice versa/1.0.0": {
+        "runtime": {
+          "Num to Text and vice versa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Num to Text and vice versa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
