@@ -1,9 +1,19 @@
-﻿namespace Pomo_App;
+﻿using System;
+
+namespace Pomo_App;
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+
+        var input = Console.ReadLine();
+
+        TimeOnly hey = TimeOnly.Parse(input);
+
+        Console.WriteLine(hey);
+        //Console.WriteLine(hey.Hour);
+
     }
+
 }
 
