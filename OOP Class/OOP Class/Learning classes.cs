@@ -9,7 +9,7 @@ namespace OOP_Class
 
 		public partial class Learning_classes_partial
 		{
-            private const int V = 67;
+            private const int V = 90;
 
             public int GetFreq()
 			{
